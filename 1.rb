@@ -5,4 +5,4 @@ while a > 0
 	res += a%10
 	a /= 10
 end
-puts "Sum of digits = #{res}"
+puts "Sum of digits = #{res}."
